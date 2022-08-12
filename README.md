@@ -13,7 +13,15 @@
 
 [![Demo](screenshots/thumbnail.png)](https://user-images.githubusercontent.com/99754900/180611230-f1e50759-1941-4c42-8ac1-36e55277da7a.mov)
 
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JS</li>
+
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
