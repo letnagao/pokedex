@@ -9,10 +9,13 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/pokedex?logo=GitHub)](https://github.com/letnagao/pokedex/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## App preview ⚡️
-
-[![Demo](screenshots/thumbnail.png)](https://user-images.githubusercontent.com/99754900/180611230-f1e50759-1941-4c42-8ac1-36e55277da7a.mov)
-
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/180611230-f1e50759-1941-4c42-8ac1-36e55277da7a.mov" width=1280 height=800></td>
+  </tr>
+</table>
+     
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>HTML</li>
